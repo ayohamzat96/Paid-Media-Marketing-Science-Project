@@ -6,4 +6,3 @@ Decomposition of CPA into CPC vs CVR
 Conversion response modeling with diminishing returns (elasticity)
 Translating a model into marginal ROAS
 Budget reallocation simulation under diminishing returns
-(Optional) incrementality awareness via DiD
